@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=joe12eze.joe12eze" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF0000,FF6600,FFD700&lines=Hi+There!+👋;+I'm+Joe+Joseph;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF0000,FF6600,FFD700&lines=Hi+Amigos!+👋;+I'm+Joe;" />
 </h1>
 <h3 align="center">"CodeAura — crafting elegant solutions with passion." </h3>
 
